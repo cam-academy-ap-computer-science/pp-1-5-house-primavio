@@ -8,17 +8,14 @@ public class House {
 		rat();
 		ateMalt();
 		cat();
-		killedRat();
 		dog();
-		worriedCat();
 		cow();
-		tossedDog();
 		maiden();
-		milkedCow();
 	}
 	
 	public static void thisIs() {
 		System.out.println("This is the house that Jack built");
+		System.out.println("");
 	}
     
 	public static void malt() {
@@ -26,7 +23,9 @@ public class House {
 	}
 	
 	public static void thatLay() {
-		System.out.println("That lay in the house that Jack built");
+		System.out.println("That lay in the house that Jack built.");
+		System.out.println("");
+		
 	}
 	public static void rat() {
 		System.out.println("This is the rat,");
