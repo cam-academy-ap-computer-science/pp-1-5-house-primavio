@@ -1,0 +1,18 @@
+Graded 9/18 by Mark Congdon
+
+Total Score:		25/25
+
+Compiles and Runs:	15/15
+Correct Output:		6/6
+Consistent Style:	2/2
+Efficiency:			2/2
+
+Good work!  Your program is very clean and well-organized.
+
+For future projects, you will want to start adding comments.
+Everybody does comments slightly differently, but anything that
+would have helped describe the structure of your methods would
+be helpful.
+
+Your efficiency is top-notch, no repetition or unnecessary
+println commands.  Well done!
